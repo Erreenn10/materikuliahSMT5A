@@ -1,3 +1,6 @@
+
+
+
 # 📱 Modul Praktikum Pemrograman Mobile
 ## Topik: Core Components & Styling — Studi Kasus Aplikasi CV
 
@@ -342,7 +345,7 @@ Jalankan aplikasi dan pastikan semua fitur bekerja:
 | 10 | Tekan Download CV | Efek visual berubah + Alert |
 | 11 | Tap tombol sosmed | Alert URL muncul |
 
----
+<img width="400" height="202" alt="Screen Recording 2026-09-27 202227" src="https://github.com/user-attachments/assets/2e2b9436-5c39-4b42-9f7a-20b48828260d" />
 
 ## 🧠 Konsep Styling yang Perlu Dipahami
 
