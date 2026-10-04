@@ -22,7 +22,7 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 6. npx expo start --web
 7. Konfirmasi akun
 
-![alt text](<Recording 2026-10-03 212633.gif>)
+![Konfirmasi Akun](KonfirmasiAkun.gif)
 
 ### Langkah 3: Bottom Tab Navigation ###
 1. Instalasi Pustaka Bottom Tabs (npm install @react-navigation/bottom-tabs)
@@ -30,14 +30,14 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 3. Sesuaikan isi file App.js dengan yang ada di modul bagian Bottom Tab Navigation
 4. Konfirmasi bukti
 
-![alt text](<Recording 2026-10-03 212958.gif>)
+![Bottom Tab Navigation](BottomTabNavigation.gif)
 
 ### Langkah 4: Drawer Navigation ###
 1. Instalasi Pustaka Drawer (npm install @react-navigation/drawer)
 2. Konfigurasi Drawer di App.js (Sesuaikan isi file App.js dengan yang ada di modul bagian Drawer Navigation)
 3. Konfirmasi bukti
 
-![alt text](<Recording 2026-10-03 213414.gif>)
+![Drawer Navigation](DrawerNavigation.gif)
 
 ### TUGAS PRAKTIKUM (Diskusi Kelompok) ###
 1. Diskusi bersama teman kelompok Anda untuk merancang alur navigasi aplikasi Project Base Test (UTS dan UAS) yang menggabungkan **Stack Navigation** dan **Tab Navigation** serta **Drawer Navigation**
